@@ -74,7 +74,7 @@ cd cd0157-Server-Deployment-and-Containerization/
 ```
 
      
-### Project Steps
+## Project Steps
 
 Completing the project involves several steps:
 
