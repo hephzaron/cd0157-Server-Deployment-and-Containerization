@@ -1,6 +1,5 @@
 examples
 .DS_Store
-.env*
 .flaskenv
 *.pyc
 *.pyo
